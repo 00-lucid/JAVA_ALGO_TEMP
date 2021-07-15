@@ -9,7 +9,7 @@ import java.io.OutputStreamWriter;
 // 자료구조 패키지 (필요에 따라 여러 자료형 선택)
 import java.util.Stack;
 
-public class Main {
+public class Temp {
     public static void main(String[] args) throws NumberFormatException, IOException {
         // stdin, stdout 관련 객체
         // Scanner를 써도 되지만 입출력이 비교적 너무 느리다!
